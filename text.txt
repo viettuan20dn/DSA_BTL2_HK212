@@ -1,0 +1,13 @@
+iconst 3
+istore a
+fconst 4
+fstore a
+iconst 99
+iconst  100
+fadd
+top
+iconst 10
+ineg
+top
+fload a
+top
